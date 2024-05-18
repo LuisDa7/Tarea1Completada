@@ -1,0 +1,19 @@
+.indexBody {
+    background-color: rgb(78, 78, 78);
+    color: #4e08aa;
+    font-size: 20px;
+    font-family: 'roboto', sans-serif;
+    
+}
+
+.divIndice {
+    background: rgb(218, 218, 218);
+    margin: 15px 500px 25px 500px;
+    padding: 30px 25px 50px 15px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.7);
+}
+
+.indexTitulo {
+    text-align: center;
+}
